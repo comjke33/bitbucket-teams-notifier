@@ -7,8 +7,7 @@
 * 프로젝트 협업 중 팀원에게 Pull 해달라는 메시지를 자꾸 까먹어서 만들게 됨
 
 ### Result 
-<img width="632" height="227" alt="image" src="https://github.com/user-attachments/assets/ac171c71-c85e-4109-b19b-961df4318ecb" />
-
+<img width="671" height="236" alt="image" src="https://github.com/user-attachments/assets/8dc64fd7-19b4-4759-9b0a-7d8ec187bdd6" />
 
 ### How It Works
 * BitBucket은 자체 WebHook 기능이 있다.
